@@ -30,6 +30,7 @@
 - [Shawn Pang](https://github.com/CometS1)
 - [Babs Craig](https://github.com/babzcraig)
 - [Nicholas Chumney](https://github.com/chumnend)
+- [Apurv_Upadeo](https://github.com/apurvupadeo)
 - [Surbhi Singh](https://github.com/codegirl20)
 - [Varsha Chahal](https://github.com/VarshaChahal)
 - [Shashwat Sanghavi](https://github.com/srsanghavi)
